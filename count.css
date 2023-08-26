@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+button {
+    color:blueviolet;
+    padding:10px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    width: 150px;
+    border-radius: 30px;
+
+}
+#increment {
+    background: black;
+
+}
+
+#saving {
+    background-color: aquamarine;
+    
+}
